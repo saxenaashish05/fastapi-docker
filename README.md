@@ -33,5 +33,21 @@ Added by Ashish Kumar Saxena
 └── requirements.txt
 
 ```
+# Deploy with Docker compose
 
+```
+docker compose up -d --build
+
+docker compose up -d
+[+] Running 1/0
+ ✔ Container fastapi-application  Running 
+```
+# Expected result on terminal
+```
+CONTAINER ID   IMAGE           COMMAND       CREATED       STATUS       PORTS                                               NAMES
+2b9c50510e9f   clarivate-api   "/start.sh"   2 hours ago   Up 2 hours   80/tcp, 0.0.0.0:8000->8000/tcp, :::8000->8000/tcp   fastapi-application
+
+
+```
+![page](backend.jpg)
 

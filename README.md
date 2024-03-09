@@ -36,6 +36,8 @@ Added by Ashish Kumar Saxena
 # Deploy with Docker compose
 
 ```
+run at the root level below command
+
 docker compose up -d --build
 
 docker compose up -d

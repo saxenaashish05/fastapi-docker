@@ -51,5 +51,11 @@ CONTAINER ID   IMAGE           COMMAND       CREATED       STATUS       PORTS   
 
 
 ```
+# for Basic Authentication
+```
+username: ashish
+password: saxena
+```
+
 ![page](Screenshot-from-2024-03-09-22-53-55.png)
 

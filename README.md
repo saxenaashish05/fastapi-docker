@@ -59,3 +59,10 @@ password: saxena
 
 ![page](Screenshot-from-2024-03-09-22-53-55.png)
 
+# OpenApi 
+```
+http://0.0.0.0:8000/docs
+```
+![page](output.png)
+
+

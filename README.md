@@ -26,10 +26,6 @@ Added by Ashish Kumar Saxena
 │       └── test_users.py
 ├── compose.yaml
 ├── Dockerfile
-├── https:
-│   └── github.com
-│       └── saxenaashish05
-│           └── fastapi-docker.git
 └── requirements.txt
 
 ```
